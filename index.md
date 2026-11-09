@@ -14,8 +14,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Titi dan Ira](ebook/Titi dan Ira.pdf) – Noor Asih Wahyuni (2019)
 11. [Ringkasan Pemaparan UGC ](ebook/Ringkasan Pemaparan UGC .pdf) – Dhea Zalzabila Puteri (2026)
 
-Nama: Dhea Zalzabila Puteri
-NIM: 13040124140116
+Dhea Zalzabila Puteri 13040124140116
 
 ---
 *Powered by GitHub Pages*
