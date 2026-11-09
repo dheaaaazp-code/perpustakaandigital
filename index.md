@@ -1,4 +1,5 @@
 # Digital Library
+# Dhea Zalzabila Puteri 13040124140116
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
@@ -13,8 +14,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Tarik Talinya!](ebook/Tarik Talinya!.pdf) – Humayra Kabir (2024)
 10. [Titi dan Ira](ebook/Titi dan Ira.pdf) – Noor Asih Wahyuni (2019)
 11. [Ringkasan Pemaparan UGC ](ebook/Ringkasan Pemaparan UGC .pdf) – Dhea Zalzabila Puteri (2026)
-
-Dhea Zalzabila Puteri 13040124140116
 
 ---
 *Powered by GitHub Pages*
