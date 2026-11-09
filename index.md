@@ -12,6 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Nyanyian Huja](ebook/Nyanyian Huja.pdf) – Rajiv Eipe (2024)
 9. [Tarik Talinya](ebook/Tarik Talinya.pdf) – Humayra Kabir (2024)
 10. [Titi dan Ira](ebook/Titi dan Ira.pdf) – Noor Asih Wahyuni (2019)
+11. [Ringkasan Pemaparan UGC ](ebook/Ringkasan Pemaparan UGC .pdf) – Dhea Zalzabila Puteri (2026)
 
 Contoh buku lain
 ---
