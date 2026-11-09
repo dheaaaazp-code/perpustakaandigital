@@ -9,8 +9,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Cici di Peternakan Ayam](ebook/Cici di Peternakan Ayam.pdf) –  Mareta Wahyuni (2022)
 6. [Gagan Mengunjungi Kamal](ebook/Gagan Mengunjungi Kamal.pdf) – Promina Shreshtha (2024)
 7. [Gotong Royong](ebook/Gotong Royong.pdf) – Nia Nurhasanah (2022)
-8. [Nyanyian Huja](ebook/Nyanyian Huja.pdf) – Rajiv Eipe (2024)
-9. [Tarik Talinya](ebook/Tarik Talinya.pdf) – Humayra Kabir (2024)
+8. [Nyanyian Hujan](ebook/Nyanyian Hujan.pdf) – Rajiv Eipe (2024)
+9. [Tarik Talinya!](ebook/Tarik Talinya!.pdf) – Humayra Kabir (2024)
 10. [Titi dan Ira](ebook/Titi dan Ira.pdf) – Noor Asih Wahyuni (2019)
 11. [Ringkasan Pemaparan UGC ](ebook/Ringkasan Pemaparan UGC .pdf) – Dhea Zalzabila Puteri (2026)
     
